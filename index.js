@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
-function printBadges(names) {
+function printBadges(array) {
   for (let i = 0; i < )
 }
 
