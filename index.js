@@ -4,7 +4,7 @@ function printBadges() {
   
 }
 
-fuction tailsNeverFails() {
+function tailsNeverFails() {
     return Math.random() >= 0.5;
 }
  
