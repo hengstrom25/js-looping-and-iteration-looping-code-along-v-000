@@ -14,5 +14,5 @@ function maybeTails() {
 function tailsNeverFails() {
   let counter = 0
   
-  while (counter > 0)
+  while (maybeTails)
 }
