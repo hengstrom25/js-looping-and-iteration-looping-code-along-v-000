@@ -11,7 +11,4 @@ function maybeTails() {
   return Math.random() >= 0.5
 }
 
-function tailsNeverFails() {
-  
-}
 
